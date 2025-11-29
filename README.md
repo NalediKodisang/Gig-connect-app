@@ -66,5 +66,5 @@ A set of practical full-stack tasks completed during training.
 🔗 LinkedIn: https://linkedin.com/in/Naledi-Kodisang
 
 
-⭐ *Thanks for visiting my profile! Feel free to explore my projects or get in touch.*  
+⭐ Thanks for visiting my profile! Feel free to explore my projects or get in touch.
 
